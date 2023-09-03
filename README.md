@@ -70,7 +70,7 @@ pip install scikit-learn numpy pandas
 To use the Book Recommendation System, simply run the provided script and follow the on-screen instructions. Users can provide their preferences, and the system will generate a list of recommended books based on those preferences.
 
 ```bash
-python recommendation_system.py
+python Book_Recommendation_System.py
 ```
 
 ## Contributing
