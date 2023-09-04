@@ -11,7 +11,6 @@ Welcome to the Book Recommendation System project! This system utilizes clusteri
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
