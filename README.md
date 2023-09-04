@@ -1,6 +1,4 @@
-Certainly! Here's a README.md file with a "Requirements" section included:
 
-```markdown
 # Book Recommendation System
 
 Welcome to the Book Recommendation System project! This system utilizes clustering and k-nearest neighbors (KNN) algorithms to suggest personalized book recommendations based on user preferences.
